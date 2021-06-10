@@ -314,7 +314,7 @@ th{
     z-index: 999;
     pointer-events: none;
     transform: scale(0) rotate(0deg);
-    transition: 0.5s;
+  
 }
 .white .content{
     background: #1a191f !important;
