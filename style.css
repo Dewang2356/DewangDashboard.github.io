@@ -144,7 +144,7 @@ font-weight: bold;
     justify-content: flex-end;
     align-items: center;
     overflow: hidden;
-    transition: 1s;
+    transition: 0.5s;
 
 }
 .su{
